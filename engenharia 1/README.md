@@ -41,12 +41,12 @@ Titus Winters, Software Engineering at Google
 <br>
 
 ## Diagrama de classes
-![Diagrama de Classe]
+
 
 <br><br>
 
 ## Casos de uso
-![Caso de Uso]
+
 
 <br><br>
 
