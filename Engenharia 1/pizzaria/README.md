@@ -29,7 +29,7 @@ Titus Winters, Software Engineering at Google
 <br>
 
 >Requisitos Funcionais:
-- Cadastro itens
+- Cadastro de itens
    > - Sabor da piza
    > - Descrição
    > - Bebida
