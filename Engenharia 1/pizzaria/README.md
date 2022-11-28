@@ -30,8 +30,11 @@ Titus Winters, Software Engineering at Google
 
 >Requisitos Funcionais:
 - Cadastrar itens
+   > - Sabor da piza/descrição/bebida/valor
 - Editar itens
+   > - Pizza disponível/descrição da pizza/valor da pizza ou da bebida/bebida disponível
 - Consultar pedidos e valor
+   > - Consultar na tabela pizzas e bebidas disponíveis juntamente aos seus respectivos valores
 <br>
 
 >Requisitos não funcionais:
