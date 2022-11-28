@@ -41,7 +41,7 @@ Titus Winters, Software Engineering at Google
 <br>
 
 ## Diagrama de classes
-
+<img src="diagrama de caso de uso.png">
 
 <br><br>
 
