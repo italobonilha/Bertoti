@@ -44,6 +44,7 @@ Titus Winters, Software Engineering at Google
    > - Bebida disponível
 - Consulta de pedidos e valores
    > - Consultar na tabela pizzas e bebidas disponíveis juntamente aos seus respectivos valores
+- Exclusão de itens
 <br>
 
 >Requisitos não funcionais:
