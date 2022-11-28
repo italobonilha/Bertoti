@@ -34,6 +34,7 @@ Titus Winters, Software Engineering at Google
    > - Descrição
    > - Bebida
    > - Valor
+- Vizualização de itens disponíveis
 - Editar itens
    > - Pizza disponível
    > - Descrição da pizza
