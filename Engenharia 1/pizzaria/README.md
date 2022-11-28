@@ -29,9 +29,9 @@ Titus Winters, Software Engineering at Google
 <br>
 
 >Requisitos Funcionais:
-- Efetuar pedido do cliente
-- Cadastrar valor
+- Cadastrar itens
 - Consultar pedido e valor
+- Editar informações
 <br>
 
 >Requisitos não funcionais:
