@@ -13,7 +13,7 @@ Titus Winters, Software Engineering at Google
 
 <br>
 
->Ser engenheiro de software é possuir uma visão mais ampla do que os desenvolvedores, necessitando que esse profissional seja mais organizado e preocupado com o funcionamento do sistema também requer a habilidade de se adptar e se reiventar durante o processo.
+>Ser engenheiro de software é possuir uma visão mais ampla do que os desenvolvedores, necessitando que esse profissional seja mais organizado e preocupado com o funcionamento do sistema e também requer a habilidade de se adptar e se reiventar durante o processo.
 
 <br><br>
 
