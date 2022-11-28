@@ -48,24 +48,3 @@ Titus Winters, Software Engineering at Google
 ## Casos de uso
 
 
-<br><br>
-
-## Desenvolvimento
->Classe e Código Sistema_pizzaria 
-<br>
-
-<br>
-
-
-<br>
-
->Classe e Código Produto
-
-<br>
-
-
-
-<br><br>
-
-## Aplicação
-
