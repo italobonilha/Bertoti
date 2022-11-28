@@ -13,7 +13,7 @@ Titus Winters, Software Engineering at Google
 
 <br>
 
->Ser engenheiro de software é possuir uma visão mais ampla do que os desenvolvedores, necessitando que esse profissional seja mais organizado e preocupado com o funcionamento do sistema e que tenha a habilidade de se adptar e se reiventar durante o processo.
+>Ser engenheiro de software é possuir uma visão mais ampla do que os desenvolvedores, necessitando que esse profissional seja mais organizado e preocupado com o funcionamento do sistema também requer a habilidade de se adptar e se reiventar durante o processo.
 
 <br><br>
 
@@ -31,7 +31,7 @@ Titus Winters, Software Engineering at Google
 >Requisitos Funcionais:
 - Cadastrar itens
 - Editar itens
-- Consultar pedido e valor
+- Consultar pedidos e valor
 <br>
 
 >Requisitos não funcionais:
