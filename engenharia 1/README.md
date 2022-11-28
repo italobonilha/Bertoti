@@ -29,8 +29,8 @@ Titus Winters, Software Engineering at Google
 <br>
 
 >Requisitos Funcionais:
-- Efetuar pedido do cliente
-- Cadastrar valor
+- Cadastrar itens
+- Editar itens
 - Consultar pedido e valor
 <br>
 
@@ -47,25 +47,5 @@ Titus Winters, Software Engineering at Google
 
 ## Casos de uso
 
-
-<br><br>
-
-## Desenvolvimento
->Classe e Código Sistema_pizzaria 
-<br>
-
-<br>
-
-
-<br>
-
->Classe e Código Produto
-
-<br>
-
-
-
-<br><br>
-
-## Aplicação
-
+  
+  <br><br>
