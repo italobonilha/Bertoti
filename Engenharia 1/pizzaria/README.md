@@ -37,7 +37,8 @@ Titus Winters, Software Engineering at Google
 - Editar itens
    > - Pizza disponível
    > - Descrição da pizza
-   > - Valor da pizza ou da bebida
+   > - Valor da pizza 
+   > - Valor da bebida
    > - Bebida disponível
 - Consultar pedidos e valor
    > - Consultar na tabela pizzas e bebidas disponíveis juntamente aos seus respectivos valores
