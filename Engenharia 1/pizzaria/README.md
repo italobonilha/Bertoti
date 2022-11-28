@@ -29,14 +29,14 @@ Titus Winters, Software Engineering at Google
 <br>
 
 >Requisitos Funcionais:
-- Cadastrar itens
+- Cadastro itens
    > - Sabor da piza
    > - Descrição
    > - Bebida
    > - Valor
-- Vizualização de itens disponíveis
-  
-- Editação itens
+- Vizualização de itens cadastrados
+ <br><br>
+- Editação de itens
    > - Pizza disponível
    > - Descrição da pizza
    > - Valor da pizza 
