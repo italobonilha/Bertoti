@@ -46,6 +46,6 @@ Titus Winters, Software Engineering at Google
 <br><br>
 
 ## Casos de uso
-
+<img src="imagens//diagrama uml.png">
   
   <br><br>
