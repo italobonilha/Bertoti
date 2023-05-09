@@ -3,6 +3,7 @@ Previsível:
 
 Em um conjunto de páginas web, é importante que os componentes com a mesma finalidade sejam identificados de maneira uniforme e consistente para garantir a clareza e facilidade de uso para o usuário.
 Ícones de pesquisa, compra, favoritos e meu perfil são padrõess comuns dentro dos sites
+
 Alguns exemplos são:
 
 OLX:
