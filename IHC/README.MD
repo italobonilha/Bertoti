@@ -23,6 +23,7 @@ Legendas (A)
 pré-gravado:
 Todo tipo de conteúdo gravado que possua uma trilha sonora, seja em formato de áudio ou vídeo, deve ser acompanhado por legendas para garantir a acessibilidade e compreensão do conteúdo por pessoas com deficiência auditiva ou que prefiram consumir o conteúdo sem som.
 
+
 Um exemplo são os videos no YouTube:
   ![image](https://github.com/italobonilha/Bertoti/assets/102553782/d986c24e-b706-4478-b6b4-ed7a08c9fa06)
 
