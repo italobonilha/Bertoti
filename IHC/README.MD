@@ -65,10 +65,12 @@ Adaptável:
 Ao criar conteúdo, é importante considerar a apresentação em diferentes formatos e dispositivos, garantindo que a informação e a estrutura sejam preservadas independentemente da forma como o conteúdo é apresentado. Isso pode incluir a criação de layouts simplificados ou outras formas de apresentação alternativas.
 
 Siga (Computador):
+
 ![image](https://github.com/italobonilha/Bertoti/assets/102553782/f6c7fcbd-8911-4404-94d5-cc39b326cd6f)
 
  
 Siga (Celular):
+
 ![image](https://github.com/italobonilha/Bertoti/assets/102553782/3216f765-baab-44b3-9ccf-616475400f70)
 
  
